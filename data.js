@@ -2,7 +2,7 @@ let movies = [
     {
         name: 'raya and the last dragon',
         des: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
-        image: 'slider 4.PNG'
+        image: 'raya.jpg'
     },
     {
         name: 'falcon and the winter soldier',
